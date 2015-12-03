@@ -1,0 +1,847 @@
+$ ./new_train new.data
+Creating network.
+Training network.
+Max epochs     1000. Desired error: 0.0000000000.
+Epochs            1. Current error: 0.7500000000. Bit fail 450.
+Epochs           10. Current error: 0.2036024630. Bit fail 369.
+Epochs           20. Current error: 0.2497516870. Bit fail 150.
+Epochs           30. Current error: 0.1471337676. Bit fail 600.
+Epochs           40. Current error: 0.1019741297. Bit fail 450.
+Epochs           50. Current error: 0.1960822940. Bit fail 443.
+Epochs           60. Current error: 0.1251945645. Bit fail 437.
+Epochs           70. Current error: 0.1228313446. Bit fail 444.
+Epochs           80. Current error: 0.0864937305. Bit fail 433.
+Epochs           90. Current error: 0.1226941645. Bit fail 422.
+Epochs          100. Current error: 0.0778426528. Bit fail 439.
+Epochs          110. Current error: 0.1224869564. Bit fail 421.
+Epochs          120. Current error: 0.0866008177. Bit fail 430.
+Epochs          130. Current error: 0.0955741704. Bit fail 401.
+Epochs          140. Current error: 0.0683133900. Bit fail 300.
+Epochs          150. Current error: 0.0698835850. Bit fail 294.
+Epochs          160. Current error: 0.0738805979. Bit fail 419.
+Epochs          170. Current error: 0.0562031679. Bit fail 295.
+Epochs          180. Current error: 0.1080205515. Bit fail 306.
+Epochs          190. Current error: 0.1021064222. Bit fail 291.
+Epochs          200. Current error: 0.0908210948. Bit fail 397.
+Epochs          210. Current error: 0.0423049070. Bit fail 308.
+Epochs          220. Current error: 0.0734913200. Bit fail 399.
+Epochs          230. Current error: 0.0920839533. Bit fail 336.
+Epochs          240. Current error: 0.0588631704. Bit fail 287.
+Epochs          250. Current error: 0.0482049547. Bit fail 272.
+Epochs          260. Current error: 0.0428815261. Bit fail 293.
+Epochs          270. Current error: 0.0801002011. Bit fail 395.
+Epochs          280. Current error: 0.1688625365. Bit fail 396.
+Epochs          290. Current error: 0.0416557044. Bit fail 302.
+Epochs          300. Current error: 0.0631316155. Bit fail 369.
+Epochs          310. Current error: 0.1797953099. Bit fail 272.
+Epochs          320. Current error: 0.0768404007. Bit fail 280.
+Epochs          330. Current error: 0.0489185825. Bit fail 272.
+Epochs          340. Current error: 0.1573941261. Bit fail 165.
+Epochs          350. Current error: 0.1155911759. Bit fail 259.
+Epochs          360. Current error: 0.1589945704. Bit fail 199.
+Epochs          370. Current error: 0.1275132298. Bit fail 231.
+Epochs          380. Current error: 0.0425635017. Bit fail 271.
+Epochs          390. Current error: 0.0847892985. Bit fail 265.
+Epochs          400. Current error: 0.0459757037. Bit fail 274.
+Epochs          410. Current error: 0.0628949478. Bit fail 269.
+Epochs          420. Current error: 0.0859245136. Bit fail 263.
+Epochs          430. Current error: 0.0585929379. Bit fail 269.
+Epochs          440. Current error: 0.0396296047. Bit fail 278.
+Epochs          450. Current error: 0.0301828608. Bit fail 259.
+Epochs          460. Current error: 0.1284623146. Bit fail 246.
+Epochs          470. Current error: 0.1195627227. Bit fail 227.
+Epochs          480. Current error: 0.0359386168. Bit fail 256.
+Epochs          490. Current error: 0.0167533923. Bit fail 261.
+Epochs          500. Current error: 0.0113231223. Bit fail 262.
+Epochs          510. Current error: 0.0087959450. Bit fail 270.
+Epochs          520. Current error: 0.0064996108. Bit fail 268.
+Epochs          530. Current error: 0.0026537243. Bit fail 244.
+Epochs          540. Current error: 0.0011645131. Bit fail 231.
+Epochs          550. Current error: 0.0156720821. Bit fail 214.
+Epochs          560. Current error: 0.1727159172. Bit fail 200.
+Epochs          570. Current error: 0.0416216440. Bit fail 265.
+Epochs          580. Current error: 0.0588860326. Bit fail 264.
+Epochs          590. Current error: 0.1256324649. Bit fail 269.
+Epochs          600. Current error: 0.1481939107. Bit fail 282.
+Epochs          610. Current error: 0.0388384722. Bit fail 269.
+Epochs          620. Current error: 0.0309626684. Bit fail 263.
+Epochs          630. Current error: 0.0854005590. Bit fail 263.
+Epochs          640. Current error: 0.0419044867. Bit fail 262.
+Epochs          650. Current error: 0.0512450524. Bit fail 273.
+Epochs          660. Current error: 0.1000753567. Bit fail 269.
+Epochs          670. Current error: 0.0945328996. Bit fail 270.
+Epochs          680. Current error: 0.1089224145. Bit fail 263.
+Epochs          690. Current error: 0.0375879779. Bit fail 268.
+Epochs          700. Current error: 0.1506490409. Bit fail 265.
+Epochs          710. Current error: 0.0481848381. Bit fail 268.
+Epochs          720. Current error: 0.1938702911. Bit fail 274.
+Epochs          730. Current error: 0.0421734750. Bit fail 272.
+Epochs          740. Current error: 0.0896181762. Bit fail 269.
+Epochs          750. Current error: 0.0269978810. Bit fail 276.
+Epochs          760. Current error: 0.0250685140. Bit fail 253.
+Epochs          770. Current error: 0.0137672508. Bit fail 258.
+Epochs          780. Current error: 0.0171847250. Bit fail 238.
+Epochs          790. Current error: 0.0058183349. Bit fail 234.
+Epochs          800. Current error: 0.0028438098. Bit fail 225.
+Epochs          810. Current error: 0.0010924669. Bit fail 212.
+Epochs          820. Current error: 0.0003454640. Bit fail 138.
+Epochs          830. Current error: 0.0002491807. Bit fail 112.
+Epochs          840. Current error: 0.0002328226. Bit fail 104.
+Epochs          850. Current error: 0.0002240801. Bit fail 101.
+Epochs          860. Current error: 0.0002175665. Bit fail 102.
+Epochs          870. Current error: 0.0002122682. Bit fail 102.
+Epochs          880. Current error: 0.0002077306. Bit fail 102.
+Epochs          890. Current error: 0.0002036876. Bit fail 103.
+Epochs          900. Current error: 0.0001999821. Bit fail 103.
+Epochs          910. Current error: 0.0001965622. Bit fail 103.
+Epochs          920. Current error: 0.0001933399. Bit fail 103.
+Epochs          930. Current error: 0.0001902509. Bit fail 103.
+Epochs          940. Current error: 0.0001872447. Bit fail 103.
+Epochs          950. Current error: 0.0001842801. Bit fail 103.
+Epochs          960. Current error: 0.0001813245. Bit fail 103.
+Epochs          970. Current error: 0.0001783553. Bit fail 104.
+Epochs          980. Current error: 0.0001753650. Bit fail 104.
+Epochs          990. Current error: 0.0001723650. Bit fail 104.
+Epochs         1000. Current error: 0.0001693875. Bit fail 104.
+Testing network. 0.000102
+Probability of number of sections:
+Output | Expected | Difference
+
+Test: 0
+P0: 0.000420
+P1: 0.999530
+P2: 0.000581
+P3: 0.000000
+Expected no. of sections: 1
+Output no. of sections: 1
+
+Test: 1
+P0: 0.001364
+P1: 0.000105
+P2: 0.999751
+P3: 0.000000
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 2
+P0: 0.000725
+P1: 0.996536
+P2: 0.005544
+P3: 0.000000
+Expected no. of sections: 1
+Output no. of sections: 1
+
+Test: 3
+P0: 0.001682
+P1: 0.000175
+P2: 0.970303
+P3: 0.001525
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 4
+P0: 0.001646
+P1: 0.000132
+P2: 0.993295
+P3: 0.000102
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 5
+P0: 0.001514
+P1: 0.000395
+P2: 0.986510
+P3: 0.000228
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 6
+P0: 0.001335
+P1: 0.000446
+P2: 0.977217
+P3: 0.000010
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 7
+P0: 0.001373
+P1: 0.001402
+P2: 0.990222
+P3: 0.000001
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 8
+P0: 0.001471
+P1: 0.000132
+P2: 0.993355
+P3: 0.000015
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 9
+P0: 0.000640
+P1: 1.000000
+P2: 0.059647
+P3: 0.000000
+Expected no. of sections: 1
+Output no. of sections: 1
+
+Test: 10
+P0: 0.001356
+P1: 0.000142
+P2: 0.999483
+P3: 0.000000
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 11
+P0: 0.000771
+P1: 0.999837
+P2: 0.000589
+P3: 0.000000
+Expected no. of sections: 1
+Output no. of sections: 1
+
+Test: 12
+P0: 0.001783
+P1: 0.000152
+P2: 0.981694
+P3: 0.001180
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 13
+P0: 0.001698
+P1: 0.000120
+P2: 0.985285
+P3: 0.000465
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 14
+P0: 0.000682
+P1: 0.988468
+P2: 0.000725
+P3: 0.003893
+Expected no. of sections: 1
+Output no. of sections: 3
+Saving network.
+
+Correct: 14
+Wrong: 1
+Accuracy: 93.333333
+Cleaning up.
+
+----
+
+$ ./new_test
+Creating network.
+Layer / Neuron 012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901
+L   1 / N  101 bababbbbbbbbbbbbbbbbbababaababcbbbbabbcbbbbbbbacbaabbbbabbbbbbbbabbbbbbbabbabbbbbbbbbbbcbabbbbaabbbbA.......................................................................................................................................................
+L   1 / N  102 aaaAaaaaAaaAAaAaaAaAaAaaaaaaaaaaAaaaaAaAAaAaAaaaaaAaaaaaaAaAaaAaAaaaaaaaaaaaaaaaaAaaAAaaaaaAaAaaaaaaa.......................................................................................................................................................
+L   1 / N  103 AbBbAAAaAAaBaaaBAaAaababAbaAbaBBaaaabABAbBBAbabBAbbBAAAABaBaBAaAbAAaAAABaaAbAAAaBaAAaAABaaaAAAaaaAbac.......................................................................................................................................................
+L   1 / N  104 aabaaaaaaaaaaaabaaaaaaaabaabaabbaaaaaabaabbaaaabbaAbabaabababaaaabaabaabaaaaaaaabaaaaabbaabaaaaaaaaaA.......................................................................................................................................................
+L   1 / N  105 aabaaababaabaaabbbabaaaabaabaacbabaaaabbabbbaaAbbaabbbaabbbabbaaabbaaabbabbabbbabbbbbaabaababaaaababA.......................................................................................................................................................
+L   1 / N  106 aaaaaaaaaaaaaaabaabaaaaaaaaaaabaaaaaaabaabaaaaaabaabaaaabaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.......................................................................................................................................................
+L   1 / N  107 cbtbbbcbbbbbbbbdbbcbbabbcbbbabecbbbbbbdbbdcbbbadcbadbcbbdbdbdbbbbccbbcbbbbcbcbcbccbcbbbdbbccbbbbbbbba.......................................................................................................................................................
+L   1 / N  108 AaAaaAaAAAaaAaaaaAaaAaAaaaaAbaAaaaaAaaaaaAaaaaaaAabaaAAaAaaaaaAAaaaaaaaAaaaaAaAAaAaAaaaaaaAaaAaaaAbAa.......................................................................................................................................................
+L   1 / N  109 bbdabbbbbbabbabbbbbbaababaabAbcbbbbaabbbabbbbbabbaAbbbbbbbcabbbbbbbbbbbbbbbabbbbbbbbbbbbbabbbbbabbbbA.......................................................................................................................................................
+L   1 / N  110 bacabbbbbbabbabbbbbbaabbbaabaabbbbbbabbbabbbbbAbbaabbbaabbbbbbbbabbbbbbbabbabbbabbbbbabbbbbbbbbabbbbA.......................................................................................................................................................
+L   1 / N  111 AaAAaAAaaaAAaAaaAAaAAaAabAaAAAaAaaabBAbaaaaAAaAaaaaAaaAaAaaaaAAAaAaaaAaaAAAaaaaaaAaaAaAaaAaaAbaaaAaAA.......................................................................................................................................................
+L   1 / N  112 aabaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaabaaAaabaabaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.......................................................................................................................................................
+L   1 / N  113 bababbbbbbbbbabcbbbbbabababbabccabbbbbcbbcbbbbaccaacbcbbcbcbcbbbabbbbbbbbbbabbbbbbbbbbbcbbcbbbbabbbbA.......................................................................................................................................................
+L   1 / N  114 bbcbbbbbbbbbbabcbbbbbabbbabbabecbbbbbbcbbccbbbaccbacbcbbcbcbcbbbbbcbbbbbbbbabbcbbcbbbbbcbbcbbbbbbbbba.......................................................................................................................................................
+L   1 / N  115 bbmabbbbbbbbbabcbbbbbabababbabdbbbbbabcbbccbbbaccaacbcbbcbcbcbbbbbbbbbbbbbbbbbbbbbbbbbbcbbcbbbbbbbbbA.......................................................................................................................................................
+L   1 / N  116 aAaaAAaAaaaaaaaaaaAAAaaaaaAaaAaaaaaAAaaaaAAaaAaaaAaaaaAaAaAaaAAaaaaaaaAAaAaAaaAaaaaaaAaaaaAAAaaaaaaaa.......................................................................................................................................................
+L   1 / N  117 bbnabbbbbbbbbabcbbbbbabbbabbabdcbbbbabcbacbbbbacbbacbbbbcbcbcbbbabbbbbbbbbbabbbbbbbbbbbcbbbbbbbbbbbba.......................................................................................................................................................
+L   1 / N  118 aaAaaAAaaaAaaaaaaaaAaaaaaaaAaaaaaAaaaaaaaaAaaaaaaaaaaaAaAaAaaaAaaAaaaaaAaAaaaaaAaaaaaaaAAaaaaAaaaAbAa.......................................................................................................................................................
+L   1 / N  119 bbbabbbabbbbbabcbbbbbababaababcbabbbabdbacbbbbacbaacbbbabbbbcbbbabbbbbbbbababbbbbbbbbbbcabbbbbbbbbbba.......................................................................................................................................................
+L   1 / N  120 AaAaaAaAAAAAaAAAaAaaAaaaaaAAaaAAaaaaaaaaaAaaaaAAAaAAaAAaaaaaAAAAaAAAaaaAaAAAAaaAAaAaAaaaAAAaAAAAaAaAA.......................................................................................................................................................
+L   1 / N  121 aaAaaaAaaAaaaaaAaaaAAaAaaAaaaaaAaAaaaaaAaaaaaaaaaaaaaAAAAaAaAaAaaAAaaaaaaaaaaaAaaaaaAaaAaaAAAaaAaAaAA.......................................................................................................................................................
+L   1 / N  122 abAaaaAAAaaAAaaAaaaaabAaAaaAAaaAaaAaaaAaAAAAaaaaaaaAaAaaAaAaaaAAAAaAaaaaAAaAaaaAaAaAAaAAaaAaAaaAAAbAa.......................................................................................................................................................
+L   1 / N  123 aaaaaaaaaaaaabaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaabaaaaaaaaaaaaaaaaaaaa.......................................................................................................................................................
+L   1 / N  124 aaaaaaaaaaaaaaaaaabaaaaabaaaAabaaaaaaafaabaabaAabaAbaaAaaaaabaaaAaaaaaaaaaaaabaabaaaaaabaaaaaaaaaaaaA.......................................................................................................................................................
+L   1 / N  125 aaaaaaaaaaaaaaaaaacaaaaababaAababaabaaeaabaabbaabaabbaaaaaaabaaaaaaaaabaaababbaabaaaaaaaaaaaaaaaaaaaa.......................................................................................................................................................
+L   1 / N  126 aabaaaaabaaaaaaaaaaaaaaaaaaaAabbaaaaaaaaabbaaaabaaababaababababaabbaababaaaabaaaaaaaaaabaabaabaaabaaA.......................................................................................................................................................
+L   1 / N  127 AaAaaAaAaAaaaaaaaaAaAaAAAaaAAaAaabaAbaaaaaAaaaaAAAaaaaAaaaAaaaaaaAaaaAaaaaAaaAaaaAaaaaAaaaAaAaAaaAaaA.......................................................................................................................................................
+L   1 / N  128 aaaababaaaaaaaabbabaaaaabaabaabbabaaaadaabaabaabbaabaaaabaaabaaaaabababaaababbbabbaababbaabbabaabaaaa.......................................................................................................................................................
+L   1 / N  129 babababbbbabbabbbbbbaaabbabbabcbabbaabcbacbbbbacbaacbbabbabbcbbaabbbbbbbaababbbbbbbbbbbbaabbbbbabbabA.......................................................................................................................................................
+L   1 / N  130 aaaAaaaaaAaaaaabaAaaAaaaaaaaaabaAaaaaacaaaaaaaabbaAbaaaaaaaabaaaaaaaaaaaaaaaaaaAaaaaaaaaaaaaaAaaaaaaA.......................................................................................................................................................
+L   1 / N  131 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.......................................................................................................................................................
+L   1 / N  132 bababababbaaaabbbabaaaaabaaaAabbaaaaaadaabbaababbaababbabababaaaabbaabbbaababbbabaaabaabaabbaaaabbaaA.......................................................................................................................................................
+L   1 / N  133 aaAaaaAAaAaAaaAAAaaaaAaaaaAaAAaAaaaAAaaAaaAAaaaaAAaAAaAaaaAaAAaaaaaAaaAAaaAaAaaaAaaaaaAaaaaAaAAaAAaaA.......................................................................................................................................................
+L   1 / N  134 bbbabbbbbbbbbbbcbbbbbabbbbbbabdbbbbbbbdbacbbbbaccaacbbbbcbcbcbbbbbbbbbbbbbbbbbbbbbbbbbbcbbbbbbbbbbbbA.......................................................................................................................................................
+L   1 / N  135 AaAaaaAaaaAaaaaaaaaaaaaaaaaAaaAaAaaAaaaaaaAaaaaaaaaAaAaaaaaaaAaaaAaAaaaaaaaaaaAaaaaaaaAAaaaaaaaaAAaaA.......................................................................................................................................................
+L   1 / N  136 AaaaAaAAaaAaaaaAaaAaaaAAAaAAAAAAaaaaaaaAaAAAaAAAaaaaaAaaaaaAAaaaaAAaaaAAAaAaaaaAaAaAAAaAaaAAaAaaaAaaa.......................................................................................................................................................
+L   1 / N  137 bbsabbbbbbbbbbbcbbbbbabbbabbabdcbbbabbcbacbbbbacbbacbbbbcbkbcbbbabbbbbbbbbbabbbbbbbbbbbcbbbbbbbabbbba.......................................................................................................................................................
+L   1 / N  138 aaaaaaaaaaaaaaaaaabaaaaababaaaaaaaaaaacaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaabbabaaaaaaaaaaaaaaaaaaaA.......................................................................................................................................................
+L   1 / N  139 aaAaaAAaAaaAaaaaaAaaaaaaAaaaaaAAaaaAaaAAaAAaaaAAAaaAAAaaaaaaaAAAaAaAAAaAAaAAaaaaAAaAAaaaAAAaaAAAAAaaa.......................................................................................................................................................
+L   1 / N  140 AaAaaaaaaaaaaAaaaaaAAaAAaAaaaaAAaaaaaaaAaAAAaaAaaaaaaaaaAaAaaAaAaaaaaAaAAaaaAaaAaaaaaaaaaaaaaAaaAaaaa.......................................................................................................................................................
+L   1 / N  141 aAaAaaaAaaaaaaaaaAaaAAaaaAAaaaaaaaaaaaBaaaaaaaaaAaaaAaaaaAaaaaaaAaaAaAaaAaaaaAaaaaaAAaaAaAaaaaAaaAAaa.......................................................................................................................................................
+L   1 / N  142 AaAaAaaaAaaBaaaAAAAaaaaaAaaAaaBAAaAaaaAaaAAaaaaAAabAAAaaAaAAAAaaaAAaaAAAaaAaAaAaAAAAaaAAaaaAaaaaaAaAb.......................................................................................................................................................
+L   1 / N  143 bbcababbbbabbbbbbabbaaaababbabbbabbaabbbabbabbabbaabbbaabbbabbbbabbbbbbbabbabbbabbbbbbbbbabbbbbabbbba.......................................................................................................................................................
+L   1 / N  144 AaAaaaAaAAaBaaaBAaAAaaaaAaaAbaAAaaAbaaAAaAAAaabAAabAaAAaAaBaAaaaaAAaaAABAAaaAAAaAAaAaaABaaAAaaaaaAbAb.......................................................................................................................................................
+L   1 / N  145 bbbbbbbbbbbbbbbcbbbbbabbbbbbabdcbbbbbbebaccbbbaccbacbcbbcbcbcbbbbbcbbbbbbbcbbbcbcbbbbbbcbbcbbbbbbbbbA.......................................................................................................................................................
+L   1 / N  146 AaAaAAaaAAaAaaaaaAaaaaAaAaaaaaAaaaaaAaAAaAAAAaaaAAaAaAAaAaAaAaAaaaaaAaaaaAAaaAAAaAaAAaaAaAAAAaaaAAaAa.......................................................................................................................................................
+L   1 / N  147 abbbaabaaabbbbbabaaabbababbabbaaabbabbaabaaabbbaaabbababbbbbabaababbaaabbaabbaabbaaabbaaabaabbbababaa.......................................................................................................................................................
+L   1 / N  148 aaaaaaaAaaaaaaaaaaaaaaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaAaaaaaaaaaaaaaaaaaaaAaaaaaaaa.......................................................................................................................................................
+L   1 / N  149 aaaaaAaaaaAaaaaaaaaaaaaaaaaAaaaaaaaaaaaaaaAAaaaaaaaaaaAaaaaaaaAaaaaaaaaAaaaaaaaaaaaaaaaaaaaaaaaAaAaAa.......................................................................................................................................................
+L   1 / N  150 aaaaaaaAaaAaAaaaaaaaaaaaAaAaAAaaaaaaAaaAaaaaaaAaaaAaaaaAaaaAaaaAaaaaaaaaAaaaaaaAAaaaaaaaaaaaaaaAaaAaa.......................................................................................................................................................
+L   1 / N  151 AaAAAAAaAAaAAaaAAAAAaaAaAaAAaaAAaAAaaaAAaAAAaaAAAaaAAAaaAaAaAAaaaAAAaaAAaaAaAAAaaAAAaAaAAaAAaAaAaAaAa.......................................................................................................................................................
+L   1 / N  152 bbcbbbbbbbbbbbbcbbbbbabbbbbbabdcbbbbbbdbbdcbbbaccaacbcbbcbcbcbbbabbbbbbbbbbabbcbccbcbbbcbbcbbbbbbbbbA.......................................................................................................................................................
+L   1 / N  153 aaaaaaAaaaaaAAAaaAbAAaaabaAAaaaAaaaaaAbabaaaAbaaabbaaaaaaaaaaaaaaaaaaabAAaaaabAaaaaaaaaaaaaaaaAaAabAa.......................................................................................................................................................
+L   1 / N  154 AaBaaAAaAAaAaaaAAaAAabaaabaAbaBAaaaabaAabBAAaabBAabBAAaaBaBaBAAaaAAaaAABAAAbAaAaAAaAaaABabaAaaaaaAbAb.......................................................................................................................................................
+L   1 / N  155 aAaAaaaaaaaaaaAaaAaaaaaaAaAaaaaaaAaAaaAaAaAAaaaaaAAaaaaaaaaaaaaaaaaaaaaaaaaAaaaaaaaaaaaaaAaaaaAaaaaAa.......................................................................................................................................................
+L   1 / N  156 aaaaAAaaAAaaAaaaaAAAAaAAaaaaaaaAAaAaaAaAaaaaaaaaaAAaaaaAaaaaaAAAaaaaAAAAaaaAaAaaAaAAAaaaAaaaaaaaaAaaa.......................................................................................................................................................
+L   1 / N  157 aabaaabababbbabbbaabbaaabaabaabbabbaabbbabbabbabbaabbbabbbbabbbabbbaabbbbbbabbbabbbbabbbbabbbbaaabbba.......................................................................................................................................................
+L   1 / N  158 bababbbabbbbaabbbabbabaababbaacbabababcbabbbbbabbaababbabbbababbabbbbbbbbbbabbbabbbbbabbbabbbbaaabbba.......................................................................................................................................................
+L   1 / N  159 aababababaaaaaabbabbaaaabaababcbaaaaabdaacbaababbaacbbaabbbabaaaabbbbbbbaababababbabbbbbaabbbbaaabaaa.......................................................................................................................................................
+L   1 / N  160 aaaabaaaaaaaaabbaabaaaaabaaaaabbaaaaaabaabaaababbaababaabababaaaabbaabaaaaaabababaaaaaabaabaaaaaaaaaA.......................................................................................................................................................
+L   1 / N  161 AaAaaAAaAAAaaaaaAaaAaaAaaaaaaaAAAaaaaaAaaAaaAaaAAAaaaaaaaaAaAAAaaaaaaAaaAaaaaAaaaAAAAaaAaaaAaaaAaaaaa.......................................................................................................................................................
+L   1 / N  162 aaAaaaAAaAaAAaaAAaAaAaAaaaaAaaAAaaaaaaaAaAAAaaaAaAaAaAaAAaaaaaAaaAAaAAAAaaaaAaaaaAaaaaaaaaAAaaAaaAaaa.......................................................................................................................................................
+L   1 / N  163 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaAbaaaaaaaabaaaaabaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaA.......................................................................................................................................................
+L   1 / N  164 aaAaaAaaaaaaaaaaaAaAAaAaaaaaaaaAaaaaaaaaaaaaaaaaaaaaaaaAAaAaaaAaaaaaaaaaaaaAaaaAaAaaaaaaaaaaAaAaAAbaA.......................................................................................................................................................
+L   1 / N  165 aaaaaaaaaaaaaaaaaaaAaAAaaAaaAaaaAaaaAaaaaaaaaaaaaaaaaaaaaaaAaaaaAaaaaaaaaAaAaaaaaaaaaaaaaAaaaaaaaaAAA.......................................................................................................................................................
+L   1 / N  166 AaaaaAaaaaaaaaaAaaAaAaAaaaAAaaAaaAaaaAaaaAAaaaaaaaaAaAaaaaaaaAaaaaaaaaaaAAaaAaaaaaaaAaaaAaaaaaAAaaaaA.......................................................................................................................................................
+L   1 / N  167 bbcabbbbbbabbabbbbbbaaaababbabbbabbaabbbabbbbbabbaabbbaabbbbbbbaabbabbbbbababbbbbbbbbbbbbabbbbbbbbaaA.......................................................................................................................................................
+L   1 / N  168 bbzabbbbbbbbbbbbbbbbaabbbabbabcbbbbbbbcbabbbbbabbaabbbbbcbbbcbbbbbbbbbbbbbbabbbbbbbbbbbbbbbbbbbbbbbaA.......................................................................................................................................................
+L   1 / N  169 aaaaaaaaAAaaaaaaaaaAaaAaaaaaaaaaAaaaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaAaaaaaaaaaaA.......................................................................................................................................................
+L   1 / N  170 bbbabbbbbbbbbbbbbabbbabbbaababccabbbabbbabbbbbabbbabbcbbbbbabbbbabbbbbbbbbbabbbbbbbbbbbbbbbbbbbabbbba.......................................................................................................................................................
+L   1 / N  171 AaAaaAaAAaAaaaaaAaAaAaaaaaaAaaAAaAaaaaAaaAAaaaaAAaaAaaAAaaAaaaAaaAAaAaaaaaAaAaAaaAAaaaaAaAAAAaAaaAaAA.......................................................................................................................................................
+L   1 / N  172 bacabbbabbbbbabbbabbbabbbaabaabbbbbbabbbabbbababbaabbbabbbbbbbbbbbbbbbbbaababbbabbbbbabbbabbbbbabbabA.......................................................................................................................................................
+L   1 / N  173 bbhAbbbAbbacbbbbbbbbaAabbBbbBacbbbbaAbcbAcbbbbBcbbBcbbabbbjbcbbaacbbbbbccbbAbbbAbbbbabccbabbaaaaababC.......................................................................................................................................................
+L   1 / N  174 bbbabbbbbbbbbabcbbbbbabababbabcbbbbbabcbacbbbbacbbacbbbbcbcacbbbabbbbbbbbbbbbbbbbbbbbbbcbabbbbbbbbabA.......................................................................................................................................................
+L   1 / N  175 AaaAaaaAaaAaaaaAaAaAAaAaaAAAaaAaAaaAAaAAAaaAAaAaaAaaaaaaAaAAaaAAaAaaaaAaaaAaaaAaaaAaaaaaAAaaaAaaaAaaa.......................................................................................................................................................
+L   1 / N  176 aaaaaaaaaaaaaaaaaabaaaaababaaabaaaaaaahaabaabaAabaabaaaaaaaabaaaaaaaaaaaAabaabbabaaaaaaaaaaaaaaaaaaaa.......................................................................................................................................................
+L   1 / N  177 bababbbabbbbbabbbabbaababaababcbbbbbaacbabbbbaabbbabbbbbbababbbaabbbbbbbabbabbbbbbbbbbbbbbbbbbbabbabA.......................................................................................................................................................
+L   1 / N  178 AaaaaAAaAaaAaaaAAaaaaaaaAaaaaaAaaaaAaaAAaAAaaaaaaAaAaAAaaaAaaaaaaaaaaaaaaaAaAAAaAAAAaaaAaAaaaAaaaAaaa.......................................................................................................................................................
+L   1 / N  179 AaaAAaaaaaaAAaaaaAaAaaaaAaAAaaaAaAaAaaaaaAAAaaaAaaaaaaAaAaaaaaAaaaaaaaaaaaAaAAAaAAaAaaAaAaAaAAaAaAaaa.......................................................................................................................................................
+L   1 / N  180 babababaababaabbbabbaaaabaabAabbaabbabdaababbbabbaAbbbaabbbabbbaabbaaabbaababbbabbabbabbaabaabaaaaaaA.......................................................................................................................................................
+L   1 / N  181 AaBbAAAbAAaBaaaAAAAAaaabAbaAbaBAaaaabaBabBAaaabBAabBABbABaBaBAAabBAaaAABAbabBaAaAaAAaaABAaAAaAAaaBbAb.......................................................................................................................................................
+L   1 / N  182 AAAAaAAaaaAaaAaaAAaAAaaaaAaaAAbAaaaaAabaaaAaaaBAaaAbaABAAaAaaaAaaAaaaabaAaaaabaAaAaaaaaaAaaAAaaAAAaAA.......................................................................................................................................................
+L   1 / N  183 aaaaaabaababaaabbaaaaaaaaaaaaabbaaaaaaaaabaaabAbaaaaabaabababbaaaaabbbabbaaaaaaaaaaaaaabaaaaaaaaaaaaA.......................................................................................................................................................
+L   1 / N  184 aaaaaaaAaAaAAaaaaaaaaaaaaaaaaaAaAaAAaaaAaaaAaaaaAaaaaaaAaAAaaaaaaAaaaaaaaaaaaAaaaAaaaaAaaaaAAaaaaaaaA.......................................................................................................................................................
+L   1 / N  185 AaaaAAAaaAAaaaAaaaAAAaaaaaaAaaaAaaAAaaaaaAaaaaaAaaaAAaaAAaAAaaaaaAAaAAaAaaaaaAAAaAaAaaAAaaAaaaaAaAaaa.......................................................................................................................................................
+L   1 / N  186 bbzbbbbabbbbbbbbbbbbbaacbabbbbbbbbbbbbbbbbbbbbabbbabbbbbbbxbbbbbbbbbbebbcbbabbbbbbbaabbbbbbbbBabbbbbA.......................................................................................................................................................
+L   1 / N  187 AAaAaaaaaaAaaaaaAaaaaaaAaaaAaAaaAaaaaabaaaaaAaaaaAAaAaaaaaaaaAaaAaaaaaaaaaaaaaaaaaaaaAaaaAaaAaaAAaaaa.......................................................................................................................................................
+L   1 / N  188 aaaAaaAaaAAAaaAAaaaAAaaaAAaAaaAAAAaaaAAAAAAaaaAaaaaAAaAaaaAaaAAaaaaaAaAaaaAaaAAaaAAaAAaaaAaAAAAaAaAaA.......................................................................................................................................................
+L   1 / N  189 bbbabbbbbbabbabbbbbbaabbbaababcbbbbbbbcbabbbbbabbaabbbbbbbbabbbabbbbbbbbabbabbbabbbbbbbbbbbbbbbabbbba.......................................................................................................................................................
+L   1 / N  190 bbcabbbbbbabbabbbbbbbaaabaababbbbbbbabbbabbabbabbaabbbbbbbbbbbbbabbabbbbbbbabbbabbbbbbbbaabbbbbbbbabA.......................................................................................................................................................
+L   1 / N  191 abAaaaAAaaaaaaaabaaAAbabaAaAaAaAaAbaaabAbaaaabAaabaaaABAabzabaAaaBaaAabBAAaabaaabaaaabaaaaAaAAAAaAbAA.......................................................................................................................................................
+L   1 / N  192 aaaaaaaaAaAAaaaAaaaaaaaaaaaaaaAAaaaaaaaaaAAaaaaaAaaaaaaaaaAaaaaaaaaaaaaaaaAaaaaaaaaaaaaaaaaaAAAaaaaaa.......................................................................................................................................................
+L   1 / N  193 baeabbbbbbbbbabcbbbbaababaababcbabbbabcbbcbbbbabbbabbbbbbbcbcbbbabbbbbbbbbbabbbbbbbbbbbbbabbbbbbbbbba.......................................................................................................................................................
+L   1 / N  194 AbAaaAABAAAAaaaAaadBAaaaAadAbaaBbAaAaagaaAAAdaaABabAbBBaAAAbAAAaABbaAabAaAAaAAAAbAAaaAABAAAAAAbAAAcAa.......................................................................................................................................................
+L   1 / N  195 cbhbcbcbcbbcbbbdcbccbbbbcbbcbbfdbcbbbbdbbdcbbbaedbadbdbbdcmbdccbbccbcccccbcbcbcbcccccbcdbbccbbbbbcbca.......................................................................................................................................................
+L   1 / N  196 AaAaaAAaaAaAAaaAAaaAaaaaaaaAaAAAaAAaaAaaAAaaaaaAaaaAaAAaaAAAaAaaaaaAaaAAAAAaaAAaaaaAaAAaaaAAaAAaaAaaa.......................................................................................................................................................
+L   1 / N  197 aaaaaaaaaaaaaaaaaaaaaaaaaaaaAaaaaaaaaabaaaaaaaaabaaaabaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaabaabaaaaaaaaaA.......................................................................................................................................................
+L   1 / N  198 aabaabbabbabaabbbabbaaaabaabAacbabbaaakbacbabaabbaacbbaabababaaaabbaaabaaababbbacbbbaaabaabbbaaaabaaA.......................................................................................................................................................
+L   1 / N  199 aaaaaabaaaaaaaabaabaaaaabaaaaabaaaaaaaeaabaaaaabbaabaaaabababaaaabbaaaaaaaaabaaabaaabaabaabaaaaaaaaaA.......................................................................................................................................................
+L   1 / N  200 aAAaaaaAaAaaAaaaaAaaaaaAAAAaAaAaAaAaaaAaAAAaaAAAAAAaaaaAAaAaAaaAAaaaaaaaAaAAaaaaAaAaaAaaaAAaaaAaaaAaa.......................................................................................................................................................
+L   1 / N  201 aaaaaaaaaaaaaaaaaaaaaaaaaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.......................................................................................................................................................
+L   1 / N  202 bababbbaaaaabaabbabbaaaabaabaabbaaaaaabaabbaababbaababaabababaaaabbabbbbaababbbabaaabaabbabaabbaabaaa.......................................................................................................................................................
+L   1 / N  203 aaaaaaAaaaaaaaaaaabAAaaaaaaaaaaaaaaaAabaaaaaaaaaaaaaaaaaaaAaaaAaaAaaaaaaaaaaaaaAaaaaaaaaaaaaaaaaaaaAa.......................................................................................................................................................
+L   1 / N  204 bababababaabbabbbbbbaaaabaababcbabbbaabbabbbbbabbbabbbbabbbbbbbbabbabbbbaababbbabbbbbabbbabbbbbaabbaA.......................................................................................................................................................
+L   1 / N  205 bbfbbbbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbjbbbbbbbbbbbbbcbbbbbbbbbbbbbcbbbbbbAbbbbbba.......................................................................................................................................................
+L   1 / N  206 BBCABBBaBBABAABBBBBBAaAABaABaBCBBBBAABBBaCBAABaCBAaCBBBBCBCBCBBBABBBBBBCCBBaBABBBBABBBCCBABBBBAAACABb.......................................................................................................................................................
+L   1 / N  207 aaaaaaaaaaaaaaaAaaaaaaaaaaaaaaaAaaaaaaaaaaaaaaaaaaaaaAaaaaAaaaaaaaaaaaaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.......................................................................................................................................................
+L   1 / N  208 bbobbbbabbbbbbbbbbbbbbbcbbbbbbbbbbbabbbbbbbbbbabbbabbbbbbbrbbbbbbbbbbcbbcbbabbbbbbbbabbbbbbbbAbbbbbba.......................................................................................................................................................
+L   1 / N  209 cbpbbbcbcbbcbbbdbbcbbbbbcbbcabecbbbbbbdbbdcbbbbdcbadbcbbdbdbdcbbbccbcccbbbcbcbcbccbcbbbdbbccbbbbbcbbA.......................................................................................................................................................
+L   1 / N  210 aaaaaaaaaaaaaaaaaabaAaaabaaaaabaaaaaaacaaaaabaAabaaabaaaaaaaaaaaaAbaaabaaaaaabbabaaaaaaaaaaaAaaaaaaaA.......................................................................................................................................................
+L   1 / N  211 bababbbabbabaaabbaabbaaabaabaabbabaaabbbabbaababbaabbbbabbbabbbaabbabbbbabbabababbabbabbaabbbbaaababa.......................................................................................................................................................
+L   1 / N  212 aaAaaaaaaaAAaaaAaaaAaaaaaaaaAaaaaaaaaaaaaaaaAaAaaaAaaaAaaaaaaaaaaAaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.......................................................................................................................................................
+L   1 / N  213 aaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaabaaaaaaaAaaaaaaaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.......................................................................................................................................................
+L   1 / N  214 aababababaabaaabaabbaaaabaaaaabbaaaaabbaabbaaaabbaababaabababbaaabbaaabaaababababbbabaabaabaabaaaaaaa.......................................................................................................................................................
+L   1 / N  215 aaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaabaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.......................................................................................................................................................
+L   1 / N  216 AaAaAAaaaaaaaaaAAaaaaaaaAaAAaaAaaaaaaAAAaaAaaAAAaaAaaaaaaAAAAaaaAAAaAaaaAaAAaaAaaaaaaaaAAaaAaAaaAAaAa.......................................................................................................................................................
+L   1 / N  217 aaaaaaaaaaaaaaaaAaaaAaaaaaaaaaaAaaaaaabaaaaaaaaaaaaaaaaAaaAaaaaaaaaaaaaAaaaaaaaaaaaaaaaaaaaaaaaaaaaAA.......................................................................................................................................................
+L   1 / N  218 aAAaAaaaaaAaaaaAAaaaAaaaaAaaAaaaaAaaaAaaAAaaaaaaaAaAaAaAAaAAaAAAAaaaaaaAaaaAaaaaaaaaaaaaaaaaaAaaaaaaa.......................................................................................................................................................
+L   1 / N  219 aaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaAaaaaaaaaaaaaaaaAaaaaaaaaaaaaAAaaaaaaaaaAa.......................................................................................................................................................
+L   1 / N  220 bababbbbbbbbbabcbbbbbabababbabdbbbbbabdbacbbbbacbbacbbbbbbbbcbbbabbbbbbbabbabbbabbbbbbbcbbbbbbbabbbba.......................................................................................................................................................
+L   1 / N  221 aaaaaaaaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaAaaaaaaAaaaaaaaaaaaaaaaaaaa.......................................................................................................................................................
+L   1 / N  222 bababbbabbbbbabbbbbbbababaababcbbbbbabcbbbbbbbabbaabbbbabbbabbbaabbbbbbbaababbbbbbbbbbbbbabbbbbabbaba.......................................................................................................................................................
+L   1 / N  223 bbbbbbbbbabbbbbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbbabbbbbbb.......................................................................................................................................................
+L   1 / N  224 aabaaaaaaaaaaaabaabaaaaaaaaaAabaaaaaaabaabaaaaabbaababaabababaaaaabababaaaaaaaaabaaaaabbaaaaaaaaabaaA.......................................................................................................................................................
+L   1 / N  225 aabaaabaaaaaaaabaaaaaaaaaaaaAabbaaaaaabaabaaaaabbaabaaaabababbaaabbaaaaaaabababaabaaaaabaabaaaaaabaaA.......................................................................................................................................................
+L   1 / N  226 bbbbbbbbbbbbbabcbbbbbabbbabbabdbbbbbabdbaccbbbaccaacbbbbcbcbcbbbbbbbbbbbbbbabbbbbcbbbbbcbbbbbbbabbbba.......................................................................................................................................................
+L   1 / N  227 AaAaAaaAaAaaAAaAaaaaAAAAaaAaAaAAaaAaAaaaaAAaaaAaaAaaaaAAaaaaAAaAAaaaaAaAaAaAaAAaAaAAAAaaaaaaaaaaaaaAa.......................................................................................................................................................
+L   1 / N  228 bababbbabbbbbabbbabbaaabbaababcbabbaaadbacbabbabbaacbbbabbbabbbbabbbbbbbaababbbbbbbbbbbbabbbbbbabbabA.......................................................................................................................................................
+L   1 / N  229 cbrbbbbbcbbbbbbdbbcbbbbbcbbbabdcbbbbbbdbbdcbbbaccbadbcbbcbcbcbbbbbcbbcbbbbcbcbbbcbbcbbbcbbccbbbbbbbba.......................................................................................................................................................
+L   1 / N  230 aanaaabaaaaaaaaababaaaaaaaaaaabaaaaaaaaaabaaaaaaaaaaaaaabbbabaaaaabaaabbaaaabaaabaaaabbaaaaaaaaaaabaA.......................................................................................................................................................
+L   1 / N  231 bbbabbbabbabbabbbbbbaaabbaababcbbbbbbbcbabbabbabbbacbbbbbbbbcbbbabbbbbbbbababbbbbbbbbbbbabbbbbbabbbba.......................................................................................................................................................
+L   1 / N  232 AaAaaaAaaaaaAaaaaaAaAaaaaaaaaaAaaaaaaAaAaaAAaaaaaaAaAaAAaaaaaaaAaAAaAaaAaaaaaaAaaaaaAaaAAaaaaaAaaaaAA.......................................................................................................................................................
+L   1 / N  233 AaaAaAaaaaAaAAaaaaaaaAAaaAaaaaaaAaaaAAaaAaaAaaAaaAaaAaaaaAaAaaaaaaaAaaaaaaaaaaaAaaaaaAaaaaaaaaaAaaAAa.......................................................................................................................................................
+L   1 / N  234 bacabbbabbabbabbbabbaababaabaabbaabaabbaabbbbbabbaabbbabbbbabbbaabbabbbbaababbbabbbbbbbbbbbbbbaabbbba.......................................................................................................................................................
+L   1 / N  235 bbbaabbabbbbaabcbbbbbabababbAbdbaabaaaebabbbaaabbaacbbbabababbbaabbbbbbbaababbbabbbbbbbbbabbabaabbaaA.......................................................................................................................................................
+L   1 / N  236 eezcedecedceedeefdeedccgdccecdfedddccefddfddedceedbfdeedfezdgedddeedeieffcecfcdcedddceffddeddbdddeddA.......................................................................................................................................................
+L   1 / N  237 aaaaaaaaaaaaaaabaaaaaaaaaaaaaabbaaaaaabaabaaaaabbaabaaaabaaabaaaabbaaaaaaaaaaababbaaaaabaaaaaaaaaaaaA.......................................................................................................................................................
+L   1 / N  238 aabaaaaaaaaaaaabaaaaaaaaaaaaaabbaaaaaabaabaaaaabaaababaabababaaaaabaaaaaaaaaaababaaaaaaaaabaaaaaaaaaA.......................................................................................................................................................
+L   1 / N  239 bbbbbbbabbbabbbabbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbbbbabbabbbbbbbbbbbbbbbcbbbbbbbbababbbbbbababbbbabbb.......................................................................................................................................................
+L   1 / N  240 bbbabbbbbbbbbabcbbbbbabbbabbabcbbbbabbcbabbbbbacbaabbbbbcbcacbbbabbbbbbbbbbabbbabbbbbbbcbbbbbbbbbbbbA.......................................................................................................................................................
+L   1 / N  241 AaAAaAaaaAaaaaaAaaaaaAaaaaAAaaaaAaAaAAaAaaaaaaaaaAAaAaAaaaaaAAaAaaaaaaaaaAaaaAaaaAaaaaaAaaAaaAaaaAAaA.......................................................................................................................................................
+L   1 / N  242 bbbbbbbbbbbbbabdbbbbbabbbabbabdcbbbbabcbbccbbbaccbacbcbbcbcbcbbbbbcbbbbbbbbabbcbccbbbbbcbbcbbbbbbbbbA.......................................................................................................................................................
+L   1 / N  243 aaAaaaaAAAaaAaaAaaAAaaaaAaAaaAAaAaaaaaaaaAAaaaaaaaaaaaaAAaaAaaAaaaaaaAaaAAaaaaaaAaaaAaaaaaaaaaAaaaaaA.......................................................................................................................................................
+L   1 / N  244 AaAaaaAAaAAAaaaAaaaAAaaaaaaAaAAAaAaaaaaAaAAaaaaAAaaAaAAaAaAaAAAaaAaaaAaAAAaaaaaAaAaAaaAAaaAaAaaaaAbAa.......................................................................................................................................................
+L   1 / N  245 aacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaabaaaaaaaaaaaaaa.......................................................................................................................................................
+L   1 / N  246 bbbabbbbbbabbbbbbbbbbaabbabbabcbbbbbabcbabbabbabbaabbbbbbbbbbbbbbbbbbbbbbbbabbbabbbbbabbabbbbbbbbbbba.......................................................................................................................................................
+L   1 / N  247 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaAaaAaaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaA.......................................................................................................................................................
+L   1 / N  248 bababbbbbbabbabbbbbbaaaabaababcbabbbaadbacbbbbabcaacbbbabbbacbbbabbbbbbbbababbbabbbbbbbbaabbbbbabbaba.......................................................................................................................................................
+L   1 / N  249 aaAaAaaaaaAaaaaaaaaaaaaaaaaaaAAAaaaAAaAaaaAaaaaaaAaaaaaAaaAaaAaaAaaaaAaaaAaaAaaaaAaAAaaaAaaaAaAAaaaaA.......................................................................................................................................................
+L   1 / N  250 aaaaaaaaAaaaaaaaaAaaAaAaaaaaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaAaaaaaaaaaaaaaAaaaaaaaaaaaAaaaaaaaaaaaaaaaA.......................................................................................................................................................
+L   1 / N  251 ............................................................................................................................................................................................................................................................
+L   2 / N  252 .....................................................................................................aaaaaaaAaaaaAaaaaaaaAAaaaaaAaaaaaaaaaaaaaaaaAaaaaaaaAAaaaAaaaaaaaaaAaaaaaaaaaaaaaaaaAaaaaaaAaaaaaaaaaaaaaaaaaaaaaaaaaaaAaAAcaaaaaaAaAaaaaaaaaaaaaaaaaad
+L   2 / N  253 .....................................................................................................aAAAAAaAAAFaaAAAAAabACAAAAAAAAAaAAAAAAAAaaAAAAAAAAbaDAaaAAAAAAAEAAABAAAAAaAAaAAaBGAAAaAaAAEABBAaaAAaaAAAAAAaaAAaDAAAAAAAAaBbAaAaaaaaAAaAAAAaAaAAaaAaAAd
+L   2 / N  254 .....................................................................................................aadaAaaaBAeAaaaaaaaBbcAaaAAaAaaaaaaaaaaaAaAbaaBAaABabbAaBaaaaaAbaaAaaBaACaaaaaaaccAAaaaCaAcAADBaaaaAaAaABcaBaaBabAAaaaaaaaCAAaAaaAaaAAaBaaCaaaabBaAaaaC
+L   2 / N  255 .....................................................................................................baFaaabAbababbbababeabAaaAAbaabbabaabaaaAAaBbAAaaabbbBAaAbbbaaacaaabaAaacbaabaAbDcaAadafbadabmcaabaAaaaacCadbaAacaaaaaababdaabAbbbbaAabhaacbabaaababaac
+L   2 / N  256 ............................................................................................................................................................................................................................................................
+Input layer                          : 100 neurons, 1 bias
+  Hidden layer                       : 150 neurons, 1 bias
+Output layer                         :   4 neurons
+Total neurons and biases             : 256
+Total connections                    :15754
+Connection rate                      :   1.000
+Network type                         :   FANN_NETTYPE_LAYER
+Training algorithm                   :   FANN_TRAIN_QUICKPROP
+Training error function              :   FANN_ERRORFUNC_TANH
+Training stop function               :   FANN_STOPFUNC_BIT
+Bit fail limit                       :   0.010
+Learning rate                        :   0.700
+Learning momentum                    :   0.000
+Quickprop decay                      :  -0.000100
+Quickprop mu                         :   1.750
+RPROP increase factor                :   1.200
+RPROP decrease factor                :   0.500
+RPROP delta min                      :   0.000
+RPROP delta max                      :  50.000
+Cascade output change fraction       :   0.010000
+Cascade candidate change fraction    :   0.010000
+Cascade output stagnation epochs     :  12
+Cascade candidate stagnation epochs  :  12
+Cascade max output epochs            : 150
+Cascade min output epochs            :  50
+Cascade max candidate epochs         : 150
+Cascade min candidate epochs         :  50
+Cascade weight multiplier            :   0.400
+Cascade candidate limit              :1000.000
+Cascade activation functions[0]      :   FANN_SIGMOID
+Cascade activation functions[1]      :   FANN_SIGMOID_SYMMETRIC
+Cascade activation functions[2]      :   FANN_GAUSSIAN
+Cascade activation functions[3]      :   FANN_GAUSSIAN_SYMMETRIC
+Cascade activation functions[4]      :   FANN_ELLIOT
+Cascade activation functions[5]      :   FANN_ELLIOT_SYMMETRIC
+Cascade activation functions[6]      :   FANN_SIN_SYMMETRIC
+Cascade activation functions[7]      :   FANN_COS_SYMMETRIC
+Cascade activation functions[8]      :   FANN_SIN
+Cascade activation functions[9]      :   FANN_COS
+Cascade activation steepnesses[0]    :   0.250
+Cascade activation steepnesses[1]    :   0.500
+Cascade activation steepnesses[2]    :   0.750
+Cascade activation steepnesses[3]    :   1.000
+Cascade candidate groups             :   2
+Cascade no. of candidates            :  80
+Testing network.
+
+Test: 0
+P0: 0.001362
+P1: 0.000104
+P2: 0.999761
+P3: 0.000000
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 1
+P0: 0.000798
+P1: 0.961568
+P2: 0.011256
+P3: 0.000000
+Expected no. of sections: 1
+Output no. of sections: 1
+
+Test: 2
+P0: 0.001682
+P1: 0.000175
+P2: 0.970303
+P3: 0.001525
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 3
+P0: 0.001344
+P1: 0.000434
+P2: 0.982525
+P3: 0.000006
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 4
+P0: 0.001365
+P1: 0.001594
+P2: 0.990423
+P3: 0.000001
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 5
+P0: 0.001467
+P1: 0.000133
+P2: 0.991883
+P3: 0.000020
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 6
+P0: 0.000640
+P1: 1.000000
+P2: 0.059647
+P3: 0.000000
+Expected no. of sections: 1
+Output no. of sections: 1
+
+Test: 7
+P0: 0.001362
+P1: 0.000155
+P2: 0.999454
+P3: 0.000000
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 8
+P0: 0.000771
+P1: 0.999837
+P2: 0.000589
+P3: 0.000000
+Expected no. of sections: 1
+Output no. of sections: 1
+
+Test: 9
+P0: 0.001798
+P1: 0.000163
+P2: 0.979560
+P3: 0.001605
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 10
+P0: 0.001691
+P1: 0.000135
+P2: 0.979547
+P3: 0.000870
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 11
+P0: 0.000781
+P1: 0.915065
+P2: 0.003819
+P3: 0.005071
+Expected no. of sections: 1
+Output no. of sections: 3
+
+Test: 12
+P0: 0.001637
+P1: 0.000363
+P2: 0.977191
+P3: 0.000423
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 13
+P0: 0.001704
+P1: 0.000132
+P2: 0.988745
+P3: 0.000256
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 14
+P0: 0.001726
+P1: 0.000171
+P2: 0.988400
+P3: 0.000418
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 15
+P0: 0.001704
+P1: 0.000110
+P2: 0.990021
+P3: 0.000238
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 16
+P0: 0.001725
+P1: 0.000114
+P2: 0.988019
+P3: 0.000360
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 17
+P0: 0.001576
+P1: 0.000286
+P2: 0.993720
+P3: 0.000122
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 18
+P0: 0.000674
+P1: 0.984810
+P2: 0.000004
+P3: 0.003137
+Expected no. of sections: 1
+Output no. of sections: 3
+
+Test: 19
+P0: 0.000641
+P1: 0.999991
+P2: 0.000401
+P3: 0.000000
+Expected no. of sections: 1
+Output no. of sections: 1
+
+Test: 20
+P0: 0.000589
+P1: 0.999999
+P2: 0.000554
+P3: 0.000000
+Expected no. of sections: 1
+Output no. of sections: 1
+
+Test: 21
+P0: 0.000646
+P1: 1.000000
+P2: 0.000131
+P3: 0.000000
+Expected no. of sections: 1
+Output no. of sections: 1
+
+Test: 22
+P0: 0.000576
+P1: 0.999988
+P2: 0.000120
+P3: 0.000000
+Expected no. of sections: 1
+Output no. of sections: 1
+
+Test: 23
+P0: 0.001053
+P1: 0.000966
+P2: 0.636848
+P3: 0.031888
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 24
+P0: 0.000992
+P1: 0.001886
+P2: 0.000534
+P3: 0.999949
+Expected no. of sections: 2
+Output no. of sections: 3
+
+Test: 25
+P0: 0.001375
+P1: 0.001392
+P2: 0.012707
+P3: 0.999147
+Expected no. of sections: 2
+Output no. of sections: 3
+
+Test: 26
+P0: 0.000974
+P1: 0.001947
+P2: 0.000435
+P3: 0.999961
+Expected no. of sections: 2
+Output no. of sections: 3
+
+Test: 27
+P0: 0.001653
+P1: 0.000120
+P2: 0.994802
+P3: 0.000069
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 28
+P0: 0.000978
+P1: 0.357578
+P2: 0.218610
+P3: 0.000000
+Expected no. of sections: 2
+Output no. of sections: 1
+
+Test: 29
+P0: 0.001410
+P1: 0.000163
+P2: 0.999709
+P3: 0.000000
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 30
+P0: 0.001641
+P1: 0.000931
+P2: 0.973764
+P3: 0.000190
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 31
+P0: 0.001671
+P1: 0.000740
+P2: 0.059958
+P3: 0.999479
+Expected no. of sections: 3
+Output no. of sections: 3
+
+Test: 32
+P0: 0.001361
+P1: 0.001137
+P2: 0.027201
+P3: 0.998071
+Expected no. of sections: 3
+Output no. of sections: 3
+
+Test: 33
+P0: 0.001189
+P1: 0.000362
+P2: 0.087036
+P3: 0.982344
+Expected no. of sections: 3
+Output no. of sections: 3
+
+Test: 34
+P0: 0.001356
+P1: 0.001136
+P2: 0.029317
+P3: 0.997747
+Expected no. of sections: 3
+Output no. of sections: 3
+
+Test: 35
+P0: 0.001702
+P1: 0.000102
+P2: 0.990840
+P3: 0.000222
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 36
+P0: 0.001706
+P1: 0.000115
+P2: 0.985396
+P3: 0.000513
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 37
+P0: 0.001663
+P1: 0.000729
+P2: 0.054577
+P3: 0.999556
+Expected no. of sections: 3
+Output no. of sections: 3
+
+Test: 38
+P0: 0.001197
+P1: 0.001286
+P2: 0.005695
+P3: 0.999555
+Expected no. of sections: 3
+Output no. of sections: 3
+
+Test: 39
+P0: 0.001336
+P1: 0.001130
+P2: 0.043348
+P3: 0.994450
+Expected no. of sections: 3
+Output no. of sections: 3
+
+Test: 40
+P0: 0.001118
+P1: 0.001620
+P2: 0.002510
+P3: 0.999826
+Expected no. of sections: 3
+Output no. of sections: 3
+
+Test: 41
+P0: 0.001641
+P1: 0.000667
+P2: 0.059127
+P3: 0.999402
+Expected no. of sections: 3
+Output no. of sections: 3
+
+Test: 42
+P0: 0.001708
+P1: 0.000107
+P2: 0.986314
+P3: 0.000498
+Expected no. of sections: 2
+Output no. of sections: 2
+
+Test: 43
+P0: 0.001723
+P1: 0.000670
+P2: 0.122723
+P3: 0.997704
+Expected no. of sections: 3
+Output no. of sections: 3
+
+Test: 44
+P0: 0.001319
+P1: 0.001145
+P2: 0.054295
+P3: 0.991091
+Expected no. of sections: 3
+Output no. of sections: 3
+
+Test: 45
+P0: 0.001638
+P1: 0.000658
+P2: 0.063699
+P3: 0.999281
+Expected no. of sections: 3
+Output no. of sections: 3
+
+Test: 46
+P0: 0.001349
+P1: 0.001134
+P2: 0.035063
+P3: 0.996683
+Expected no. of sections: 3
+Output no. of sections: 3
+
+Test: 47
+P0: 0.001371
+P1: 0.000969
+P2: 0.039191
+P3: 0.996486
+Expected no. of sections: 3
+Output no. of sections: 3
+
+Test: 48
+P0: 0.001123
+P1: 0.001995
+P2: 0.000734
+P3: 0.999943
+Expected no. of sections: 3
+Output no. of sections: 3
+
+Test: 49
+P0: 0.001098
+P1: 0.001041
+P2: 0.022218
+P3: 0.997367
+Expected no. of sections: 3
+Output no. of sections: 3
+
+Correct: 44
+Wrong: 6
+Accuracy: 88.000000
+Cleaning up.

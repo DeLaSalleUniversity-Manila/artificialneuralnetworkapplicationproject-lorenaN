@@ -35,14 +35,20 @@ int main()
 	const unsigned int num_input = 100;
 	const unsigned int num_output = 4;
 	const unsigned int num_layers = 3;
-	const unsigned int num_neurons_hidden = 100;
-	const float desired_error = (const float) 0.001;
+	const unsigned int num_neurons_hidden = 150;
+	const float desired_error = (const float) 0;
 	const unsigned int max_epochs = 1000;
 	const unsigned int epochs_between_reports = 10;
 	struct fann *ann;
 	struct fann_train_data *data;
 
 	unsigned int i = 0;
+	unsigned int j;
+	unsigned int k;
+	unsigned int max_output;
+	unsigned int max_expected;
+	unsigned int correct = 0;
+	unsigned int wrong = 0;
 	unsigned int decimal_point;
 
 	printf("Creating network.\n");
@@ -65,33 +71,4 @@ int main()
 	
 	printf("Training network.\n");
 	fann_train_on_data(ann, data, max_epochs, epochs_between_reports, desired_error);
-
-	printf("Testing network. %f\n", fann_test_data(ann, data));
 	
-	printf("Probability of number of sections:\nOutput | Expected | Difference\n");
-
-	//for(i = 0; i < fann_length_train_data(data); i++)
-	for(i = 0; i < 10; i++)
-	{
-		calc_out = fann_run(ann, data->input[i]);
-		printf("\nTest: %d\nP0: %f %f %f\nP1: %f %f %f\nP2: %f %f %f\nP3: %f %f %f\n",
-			   i, 
-			   calc_out[0], data->output[i][0], fann_abs(calc_out[0] - data->output[i][0]), 
-			   calc_out[1], data->output[i][1], fann_abs(calc_out[1] - data->output[i][1]), 
-			   calc_out[2], data->output[i][2], fann_abs(calc_out[2] - data->output[i][2]), 
-			   calc_out[3], data->output[i][3], fann_abs(calc_out[3] - data->output[i][3]) );
-	}
-
-	printf("Saving network.\n");
-
-	fann_save(ann, "new_float.net");
-
-	decimal_point = fann_save_to_fixed(ann, "new_fixed.net");
-	fann_save_train_to_fixed(data, "new_fixed.data", decimal_point);
-
-	printf("Cleaning up.\n");
-	fann_destroy_train(data);
-	fann_destroy(ann);
-
-	return 0;
-}
